@@ -29,7 +29,7 @@
    <bean id="ds" class="org.apache.commons.dbcp.BasicDataSource">
    
    <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"></property>
-   <property name="url" value="jdbc:mysql://database11.coms0uienijt.us-east-2.rds.amazonaws.com:3306/weathersystem"></property>
+   <property name="url" value="jdbc:mysql://database11.cm7xsc7mrban.us-east-1.rds.amazonaws.com:3306/weather"></property>
    <property name="username" value="database11"></property>
    <property name="password" value="database11"></property>
    
